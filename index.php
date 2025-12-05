@@ -14,7 +14,7 @@
         <a href="index.php">Accueil</a>
         <a href="pages/nird.php">Comprendre NIRD</a>
         <a href="pages/probleme.php">les problèmes combattus</a>
-        <a href="pages/responsable.php">Numérique Responsable</a>
+        <a href="pages/dmp.php">démarches mises en place</a>
         <a href="pages/durable.php">Numérique Durable</a>
         <a href="pages/demarche.php">Comment entrer en démarche ?</a>
         <a href="pages/contact.php">Contact</a>

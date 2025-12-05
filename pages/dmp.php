@@ -21,7 +21,7 @@
         <a href="../index.php">Accueil</a>
         <a href="nird.php">Comprendre NIRD</a>
         <a href="probleme.php">les problèmes combattus</a>
-        <a href="responsable.php">Numérique Responsable</a>
+        <a href="dmp.php">démarches mises en place</a>
         <a href="durable.php">Numérique Durable</a>
         <a href="demarche.php">Comment entrer en démarche ?</a>
         <a href="contact.php">Contact</a>
@@ -32,13 +32,15 @@
 <h2>Numérique Responsable</h2>
 
 <p>
-Le numérique responsable vise à réduire les usages inutiles, optimiser les pratiques, et protéger les données.
+Afin de promouvoir un numérique libre, responsable et éco citoyen au sein d’établissements scolaires, la démarche NIRD mets en place différentes activités:
 </p>
 
 <ul>
-    <li>💾 Limiter les stockages inutiles</li>
-    <li>🔐 Sécuriser correctement les systèmes</li>
-    <li>📉 Réduire les usages énergivores (streaming, serveurs)</li>
+    <li>💾 Ateliers de sensibilisation à la sobriété numérique pour des élèves comme leur équipe éducative</li>
+    <li>🔐 Encouragement et apprentissage au reconditionnement de matériel et à la réutilisation de ces derniers</li>
+    <li>📉 Mise à disposition de ressources et d’outils numériques éducatifs</li>
+    <li> Accompagnement d’établissements pour une transition numérique écoresponsable</li>
+    <li>Favorisation à la co-construction de  solutions numériques locales, ouvertes et autonomes</li>
 </ul>
 
 </div>
