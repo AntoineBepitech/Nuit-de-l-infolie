@@ -22,7 +22,6 @@
         <a href="nird.php">Comprendre NIRD</a>
         <a href="probleme.php">les problèmes combattus</a>
         <a href="dmp.php">démarches mises en place</a>
-        <a href="durable.php">Numérique Durable</a>
         <a href="demarche.php">Comment entrer en démarche ?</a>
         <a href="contact.php">Contact</a>
     </nav>
