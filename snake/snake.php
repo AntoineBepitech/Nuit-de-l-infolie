@@ -252,8 +252,8 @@ if (!empty($_SESSION['running'])) {
     <div class="small" style="margin-top:8px">
       Remarques :
       <ul>
-        <li>Bonsoir</li>
         <li>Utilisez les bouttons pour bouger</li>
+        <li><a href="../pages/contact.php">retour au conctate</a></li>
       </ul>
     </div>
   </div>

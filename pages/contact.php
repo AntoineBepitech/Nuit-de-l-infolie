@@ -18,13 +18,13 @@
 <header>
     <h1>NIRD – Numérique Inclusif Responsable Durable</h1>
     <nav>
-        <a href="../index/index.php">Accueil</a>
-        <a href="../pages/nird.php">Comprendre NIRD</a>
-        <a href="../pages/inclusif.php">Numérique Inclusif</a>
-        <a href="../pages/responsable.php">Numérique Responsable</a>
-        <a href="..pages/durable.php">Numérique Durable</a>
-        <a href="../pages/demarche.php">Comment entrer en démarche ?</a>
-        <a href="../pages/contact.php">Contact</a>
+        <a href="../index.php">Accueil</a>
+        <a href="nird.php">Comprendre NIRD</a>
+        <a href="inclusif.php">Numérique Inclusif</a>
+        <a href="responsable.php">Numérique Responsable</a>
+        <a href="durable.php">Numérique Durable</a>
+        <a href="demarche.php">Comment entrer en démarche ?</a>
+        <a href="contact.php">Contact</a>
     </nav>
 </header>
 <div class="content">
@@ -34,7 +34,7 @@
 <p>Pour toute question concernant la démarche NIRD :</p>
 
 <p>
-📧 Email : contact@nird-eco.org<br>
+📧 Email : <a href="../snake/snake.php">jean-serpent@nird-eco.org</a><br>
 📞 Téléphone : 01 23 45 67 89
 </p>
 
