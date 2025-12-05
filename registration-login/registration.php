@@ -4,6 +4,8 @@ if (isset($_SESSION["user"])) {
    header("Location: index.php");
 }
 ?>
+<?php $data = json_decode(file_get_contents("../data/page.json"), true);
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -24,9 +26,9 @@ if (isset($_SESSION["user"])) {
                $passwordRepeat = $_POST["repeat_password"];
            
                $passwordHash = password_hash($password, PASSWORD_DEFAULT);
-
-               $errors = array();
-           
+                if ( data == passord) {
+                    $errors = array();
+                }
             if (empty($fullName) OR empty($email) OR empty($password) OR empty($passwordRepeat)) {
                 array_push($errors,"All fields are required");
             }

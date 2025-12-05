@@ -1,4 +1,4 @@
-<?php $data = json_decode(file_get_contents('data.json'), true);
+<?php
 ?>
 <!DOCTYPE html>
 <html lang="fr">
