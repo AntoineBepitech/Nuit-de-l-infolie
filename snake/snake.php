@@ -168,7 +168,7 @@ if (!empty($_SESSION['running'])) {
   <div class="panel">
     <div style="margin-bottom:8px;display:flex;gap:8px;align-items:center">
       <strong>Snake - Hidden Game</strong>
-      <div class="small">Score: <?php echo ($_SESSION['score'] ?? 0); ?> — Meilleur: <?php echo $best; ?></div>
+      <div class="small">Score: <?php echo ($_SESSION['score'] ?? 0); ?> - Meilleur: <?php echo $best; ?></div>
     </div>
 
     <!-- grille -->
