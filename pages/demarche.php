@@ -20,7 +20,7 @@
     <nav>
         <a href="../index.php">Accueil</a>
         <a href="nird.php">Comprendre NIRD</a>
-        <a href="inclusif.php">Numérique Inclusif</a>
+        <a href="probleme.php">les problèmes combattus</a>
         <a href="responsable.php">Numérique Responsable</a>
         <a href="durable.php">Numérique Durable</a>
         <a href="demarche.php">Comment entrer en démarche ?</a>

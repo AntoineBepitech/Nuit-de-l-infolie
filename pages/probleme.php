@@ -20,7 +20,7 @@
     <nav>
         <a href="../index.php">Accueil</a>
         <a href="nird.php">Comprendre NIRD</a>
-        <a href="inclusif.php">Numérique Inclusif</a>
+        <a href="probleme.php">les problèmes combattus</a>
         <a href="responsable.php">Numérique Responsable</a>
         <a href="durable.php">Numérique Durable</a>
         <a href="demarche.php">Comment entrer en démarche ?</a>
@@ -29,19 +29,12 @@
 </header>
 <div class="content">
 
-<h2>Numérique Inclusif</h2>
+<h2>les problèmes combattus</h2>
 
 <p>
-Le numérique inclusif vise à garantir que <strong>tous les utilisateurs</strong> puissent accéder aux outils numériques :
-personnes âgées, handicapées, éloignées du numérique…
+Avec la fin de support de Windows 10 annoncée pour octobre 2026, des problèmes présents depuis déjà longtemps tels que l’obsolescence programmée, le coût de licenses et autres services présentés comme nécessaires font obstacle au développement de la tech et renforcent au contraire la dépendance à ces services.
+Pour pallier ces problèmes, la démarche NIRD présente une approche progressiste du problème et vise à développer les connaissances numériques et l’indépendance d’établissements.
 </p>
-
-<h3>Actions concrètes</h3>
-<ul>
-    <li>📌 Accessibilité des contenus (textes simples, contraste, alternatives)</li>
-    <li>📌 Ateliers de formation aux outils essentiels</li>
-    <li>📌 Mise à disposition de postes d’accès libres</li>
-</ul>
 
 </div>
 <footer>
